@@ -12,8 +12,8 @@ stages:
         data_source.base_url: https://www.ncei.noaa.gov/data/local-climatological-data/access/
         data_source.max_files: 10
         data_source.output: 
-          C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/Climate_dataset{year}.html
-        data_source.temp_dir: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/data
+          C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/Climate_dataset{year}.html
+        data_source.temp_dir: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/data
         data_source.year: 2022
     outs:
     - path: data
@@ -35,8 +35,8 @@ stages:
       nfiles: 10
     params:
       params.yaml:
-        data_prepare.dest_folder: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/prepare_data
-        data_source.temp_dir: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/data
+        data_prepare.dest_folder: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/prepare_data
+        data_source.temp_dir: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/data
     outs:
     - path: prepare_data
       hash: md5
@@ -62,9 +62,9 @@ stages:
       nfiles: 20
     params:
       params.yaml:
-        data_prepare.dest_folder: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/prepare_data
-        data_process.dest_folder: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/process_data
-        data_source.temp_dir: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/data
+        data_prepare.dest_folder: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/prepare_data
+        data_process.dest_folder: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/process_data
+        data_source.temp_dir: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/data
     outs:
     - path: process_data
       hash: md5
@@ -90,9 +90,9 @@ stages:
       nfiles: 10
     params:
       params.yaml:
-        data_prepare.dest_folder: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/prepare_data
-        data_process.dest_folder: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/process_data
-        evaluate.output: C:/Users/sriva/OneDrive/Documents/Github/Assignment4_BDL/output
+        data_prepare.dest_folder: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/prepare_data
+        data_process.dest_folder: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/process_data
+        evaluate.output: C:/Users/91989/Downloads/BDL_assgn4-main/BDL_assgn4-main/output
     outs:
     - path: output
       hash: md5
