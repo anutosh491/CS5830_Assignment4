@@ -1,0 +1,13 @@
+Month,MonthlyAverageRH,MonthlyDaysWithGT001Precip,MonthlyDaysWithGT010Precip,MonthlyDaysWithGT32Temp,MonthlyDaysWithGT90Temp,MonthlyDaysWithLT0Temp,MonthlyDaysWithLT32Temp,MonthlyDepartureFromNormalAverageTemperature,MonthlyDepartureFromNormalCoolingDegreeDays,MonthlyDepartureFromNormalHeatingDegreeDays,MonthlyDepartureFromNormalMaximumTemperature,MonthlyDepartureFromNormalMinimumTemperature,MonthlyDepartureFromNormalPrecipitation,MonthlyDewpointTemperature,MonthlyGreatestPrecip,MonthlyGreatestPrecipDate,MonthlyGreatestSnowDepth,MonthlyGreatestSnowDepthDate,MonthlyGreatestSnowfall,MonthlyGreatestSnowfallDate,MonthlyMaxSeaLevelPressureValue,MonthlyMaxSeaLevelPressureValueDate,MonthlyMaxSeaLevelPressureValueTime,MonthlyMaximumTemperature,MonthlyMeanTemperature,MonthlyMinSeaLevelPressureValue,MonthlyMinSeaLevelPressureValueDate,MonthlyMinSeaLevelPressureValueTime,MonthlyMinimumTemperature,MonthlySeaLevelPressure,MonthlyStationPressure,MonthlyTotalLiquidPrecipitation,MonthlyTotalSnowfall,MonthlyWetBulb
+1,,1.0,0.0,22.0,0.0,0.0,0.0,-1.4,0.0,43.0,0.4,-3.3,-0.46,,,,,,,,,,,59.9,43.8,,,,27.6,,,0.04,,
+2,,2.0,1.0,19.0,0.0,0.0,1.0,-5.0,-1.0,138.0,-3.3,-6.7,-0.44,,,,,,,,,,,60.9,44.3,,,,27.6,,,0.17,,
+3,,0.0,0.0,9.0,3.0,0.0,0.0,0.3,26.0,5.0,1.7,-0.9,-0.6,,,,,,,,,,,73.6,56.7,,,,39.9,,,0.0,,
+4,,0.0,0.0,0.0,13.0,0.0,0.0,5.3,92.0,-69.0,6.1,4.6,-0.68,,,,,,,,,,,86.3,70.4,,,,54.6,,,0.0,,
+5,,1.0,1.0,0.0,24.0,0.0,0.0,5.6,166.0,-8.0,7.6,3.5,-1.41,,,,,,,,,,,96.3,80.2,,,,64.1,,,0.15,,
+6,,4.0,2.0,0.0,29.0,0.0,0.0,4.1,125.0,0.0,4.6,3.7,0.03,,,,,,,,,,,98.8,85.2,,,,71.6,,,1.66,,
+7,,4.0,4.0,0.0,31.0,0.0,0.0,5.3,165.0,0.0,5.8,4.8,-0.45,,,,,,,,,,,100.7,87.9,,,,75.1,,,1.39,,
+8,,8.0,5.0,0.0,23.0,0.0,0.0,1.4,44.0,0.0,0.1,2.7,2.09,,,,,,,,,,,93.6,82.7,,,,71.8,,,3.78,,
+9,,2.0,1.0,0.0,15.0,0.0,0.0,0.9,26.0,-2.0,0.9,1.0,0.83,,,,,,,,,,,88.9,76.5,,,,64.1,,,2.73,,
+10,,5.0,4.0,0.0,0.0,0.0,0.0,-0.9,-10.0,15.0,-1.2,-0.5,0.18,,,,,,,,,,,78.0,64.8,,,,51.7,,,1.79,,
+11,,3.0,1.0,9.0,0.0,0.0,0.0,-3.2,17.0,114.0,-5.1,-1.4,0.5,,,,,,,,,,,63.2,51.0,,,,38.7,,,1.14,,
+12,,3.0,1.0,11.0,0.0,0.0,1.0,3.4,2.0,-105.0,1.5,5.4,-0.39,,,,,,,,,,,61.7,49.1,,,,36.5,,,0.22,,
